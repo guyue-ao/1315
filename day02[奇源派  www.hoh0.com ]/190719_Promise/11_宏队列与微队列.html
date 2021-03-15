@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>11_宏队列与微队列</title>
+</head>
+<body>
+  <!-- <script>
+    /* 
+    宏队列: [ ]   宏任务
+    微队列: [  ]   微任务
+      3  4 1 5 2
+      在准备取出每个宏任务准备执行前要执行完所有的微任务
+    */
+    setTimeout(() => {
+      console.log('setTimeout callback()', 1)
+      Promise.resolve(5).then(value => {
+        console.log('onResolved3()', value)
+      })
+    }, 0)
+    setTimeout(() => {
+      console.log('setTimeout callback()', 2)
+    }, 0)
+    Promise.resolve(3).then(value => {
+      console.log('onResolved()', value)
+    })
+    Promise.resolve(4).then(value => {
+      console.log('onResolved2()', value)
+    })
+  </script> -->
+
+<script>
+  /*
+
+    宏队列：[0,1] 宏任务
+    微队列：[3,4] 微任务
+    在准备取出每个宏任务准备执行前，要执行完所有的微任务
+  */
+  setTimeout(() => {
+    console.log('setTime callback',0);
+    Promise.resolve(5).then(value=>{
+    console.log(value)
+  })
+  }, 0);
+  setTimeout(() => {
+    console.log('setTime callback',1);
+  }, 0);
+
+  Promise.resolve(3).then(value=>{
+    console.log(value)
+  })
+  Promise.resolve(4).then(value=>{
+    console.log(value)
+  })
+</script>
+
+</body>
+</html>
