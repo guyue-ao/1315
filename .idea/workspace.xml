@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19fb22cb-c79d-44ae-abb0-863664e5378e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/01_准备_函数对象与实例对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/02.hhh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/02_准备_回调函数的分类.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/03.hhh .html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/03_准备_error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/04.hhh .html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/04_Promise理解.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/05_为什么要用Promise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/06.hhh .html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/06_Promise基本使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/06_Promise基本使用2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/07.hhh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/07_Promise的API.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/08.hhh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/08_promise的几个关键问题1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/08_promise的几个关键问题2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/08_promise的几个关键问题2_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/08_promise的几个关键问题2_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/08_promise的几个关键问题3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/08_promise的几个关键问题4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/08_promise的几个关键问题5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/09_自定义Promise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/10_async与await.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/11_宏队列与微队列.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/12_Promise相关面试题1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/12_Promise相关面试题2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/12_Promise相关面试题3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/12_Promise相关面试题4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/12_Promise相关面试题5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/190719_Promise/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/VS code安装与配置.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01[奇源派  www.hoh0.com ]/promise流程图.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pmxyhWzKPNQ4anEGhO0Gu2N93R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19fb22cb-c79d-44ae-abb0-863664e5378e" name="Default Changelist" comment="" />
+      <created>1615802322971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615802322971</updated>
+      <workItem from="1615802325964" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="506" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615802367022">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1615802367022" />
+  </component>
+</project>
